@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// 获取按键并对两个物体进行移动控制
+// 获取按键并对两个物体进行移动控制333
 public class CubeControlAll : MonoBehaviour
 {
     private GameObject cubeCorrect;
